@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Navneet Singh!
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Navneet Singh!</h2>
 <img align='right' src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/giphy.gif" width="320">
 <p><em>Senior Consultant at <a href="https://www.orange-business.com/en/">Orange Business Services </a><img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" width="30"> 
 </em></p>
